@@ -33,7 +33,6 @@ namespace LabWork_4._1_v2
             pointer = 0;
         }
 
-        //public object Current => array[pointer - 1];
         public object Current
         {
             get
