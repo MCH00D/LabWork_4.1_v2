@@ -33,7 +33,14 @@ namespace LabWork_4._1_v2
             pointer = 0;
         }
 
-        public object Current => array[pointer - 1];
+        //public object Current => array[pointer - 1];
+        public object Current
+        {
+            get
+            {
+                return array[pointer];
+            }
+        }
 
         public bool MoveNext()
         {
@@ -43,11 +50,11 @@ namespace LabWork_4._1_v2
                 return false;
             }
 
-            for (int i = pointer; i < array.Length; i++)
+            for (int i = pointer + 1; i < array.Length; i++)
             {
                 if (IsPrimeNumber(array[i]))
                 {
-                    pointer = ++i;
+                    pointer = i;
                     return true;
                 }
             }
