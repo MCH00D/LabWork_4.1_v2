@@ -1,0 +1,7 @@
+c:\users\mmcho\documents\visual studio 2017\Projects\LabWork_4.1_v2\LabWork_4.1_v2\bin\Debug\LabWork_4.1_v2.exe.config
+c:\users\mmcho\documents\visual studio 2017\Projects\LabWork_4.1_v2\LabWork_4.1_v2\bin\Debug\LabWork_4.1_v2.exe
+c:\users\mmcho\documents\visual studio 2017\Projects\LabWork_4.1_v2\LabWork_4.1_v2\bin\Debug\LabWork_4.1_v2.pdb
+c:\users\mmcho\documents\visual studio 2017\Projects\LabWork_4.1_v2\LabWork_4.1_v2\obj\Debug\LabWork_4.1_v2.csprojAssemblyReference.cache
+c:\users\mmcho\documents\visual studio 2017\Projects\LabWork_4.1_v2\LabWork_4.1_v2\obj\Debug\LabWork_4.1_v2.csproj.CoreCompileInputs.cache
+c:\users\mmcho\documents\visual studio 2017\Projects\LabWork_4.1_v2\LabWork_4.1_v2\obj\Debug\LabWork_4.1_v2.exe
+c:\users\mmcho\documents\visual studio 2017\Projects\LabWork_4.1_v2\LabWork_4.1_v2\obj\Debug\LabWork_4.1_v2.pdb
